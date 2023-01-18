@@ -2,11 +2,12 @@
     'HTML',
     'CSS',
     'Javascript',
-    "Node JS",
     'React',
-    "MongoDB",
+    'PostgreSQL',
     "Git",
     "Bootstrap",
+    "Ruby",
+    "Wordpress",
     "Microsoft Office"
   
 ]

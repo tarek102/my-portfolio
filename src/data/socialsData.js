@@ -1,7 +1,7 @@
 export const socialsData = {
-    github: 'https://github.com/webdeveshverma',
+    github: 'https://github.com/tarek102',
     facebook: 'https://www.facebook.com/profile.php?id=100047654323640',
-    linkedIn: 'https://www.linkedin.com/in/devesh-verma-6760761b8/',
+    linkedIn: 'https://www.linkedin.com/in/tarekyosry/',
     instagram: 'https://www.instagram.com/',
     codepen: 'https://codepen.io/',
     twitter: 'https://twitter.com/webdeveshverma',

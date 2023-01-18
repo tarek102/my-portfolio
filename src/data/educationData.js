@@ -1,23 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Masai School Bangalore',
-        course: 'Full Stack web-developer',
-        startYear: 'Oct 2021',
+        institution: 'Microverse',
+        course: 'Full-stack development program',
+        startYear: 'May 2022',
         endYear: 'Present'
     },
     {
         id: 2,
-        institution: 'Government Polytechnic Ghaziabad',
-        course: 'Information Technology',
-        startYear: '2018',
-        endYear: '2021'
-    },
-    {
-        id: 3,
-        institution: 'Chhatrapati Shivaji Saraswati Vidyamandir Bulandshahr UP',
-        course: 'Intermediate',
+        institution: 'Modern University for Technology & Information - MTI',
+        course: 'Business Administration and Management',
         startYear: '2016',
-        endYear: '2018'
+        endYear: '2020'
     },
 ]

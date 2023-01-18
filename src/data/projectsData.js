@@ -1,41 +1,42 @@
 // import one from '../assets/jpg/landingPage.jpg'
-import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg'
-import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
-import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
+// import two from '../assets/svg/projects/two.svg'
+// import three from '../assets/svg/projects/three.svg'
+// import four from '../assets/svg/projects/four.svg'
+// import five from '../assets/svg/projects/five.svg'
+// import six from '../assets/svg/projects/six.svg'
+// import seven from '../assets/svg/projects/seven.svg'
+// import eight from '../assets/svg/projects/eight.svg'
+
 
 
 export const projectsData = [
     
     {
         id: 2,
-        projectName: 'MARRIOTT BONOY CLONE',
-        projectDesc: 'It is a web application to book hotels.',
-        tags: ['HTML', 'CSS', 'JavaScript'],
-        code: 'https://github.com/webdeveshverma/Marriott_Bonvoy_clone.github.io',
-        demo: 'https://personal-iota-flame.vercel.app/',
-        image: 'https://i.ibb.co/HrWfTyr/Marriott.png'
+        projectName: 'Pet Store',
+        projectDesc: 'It is a web application to add items for pets.',
+        tags: ['Ruby', 'Ruby on Rails'],
+        code: 'https://github.com/tarek102/rails_pet_shop',
+        demo: 'https://rails-pet-shop.onrender.com/',
+        image: 'https://ik.imagekit.io/4t6ufpirwu/Capture.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1674039529879'
     },
     {
         id: 3,
-        projectName: 'Agoda Clone',
-        projectDesc: 'Agoda is one of the world fastest growing online travel booking platforms. From its beginnings as an e-commerce start-up based in Singapore in 2005.',
-        tags: ['RACT','REDUX','MONGODB','JSX','EXPRESS','MONGOOSE'],
-        code: 'https://github.com/shailendra7518/Agoda-clone',
-        demo: 'https://agoda-clone.vercel.app/',
-        image: 'https://i.ibb.co/5TJzyWQ/AGODA-CLONE.jpg'
+        projectName: 'Hibrew',
+        projectDesc: 'E-commerce store for coffee maker',
+        tags: ['WordPress','Elementor','Woocommerce'],
+        code: '',
+        demo: 'https://hibrew.ae/',
+        image: 'https://ik.imagekit.io/4t6ufpirwu/Capture2.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1674039918505'
     },
     {
         id: 4,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Openweather API', 'JavaScript', 'HTML', 'CSS'],
-        code: 'https://github.com/webdeveshverma/Check-Weather-Appliction-',
-        demo: 'https://webdeveshverma.github.io/Check-Weather-Appliction-/',
-        image: 'https://i.ibb.co/C9hZWVN/Weather-app.png'
+        projectName: 'Movie web app',
+        projectDesc: 'A tv list web app, that shows the number of movies and displays info about the movie',
+        tags: ['Webpack', 'API', 'JavaScript', 'HTML', 'CSS'],
+        code: 'https://github.com/tarek102/JavaScript-capstone',
+        demo: 'https://tarek102.github.io/JavaScript-capstone/dist/',
+        image: 'https://ik.imagekit.io/4t6ufpirwu/movie.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1674041207945'
     },
    
 ]

@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Devesh Verma. I'm a Full-Stack Web Developer from Ghaziabad, Utter Pradesh.",
-    description2: "I believe that the power of technology can make people's lives easier and that new frameworks and technology make developers more productive to the tech community. Learning HTML CSS and JavaScript from my Diploma journey, piqued my interest in coding. Since then my life has been about pursuing a career in coding and web development.",
+    description1: "Hi, I am Tarek! I am an experienced WordPress designer and a full-stack software developer. After two years of designing and developing responsive websites using WordPress (for e-commerce stores and learning management systems), I decided to join Microverse, which teaches software development through remote pair programming.",
+    description2: "",
     image: 1
 }
