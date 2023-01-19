@@ -12,7 +12,7 @@
 export const projectsData = [
     
     {
-        id: 2,
+        id: 1,
         projectName: 'Pet Store',
         projectDesc: 'It is a web application to add items for pets.',
         tags: ['Ruby', 'Ruby on Rails'],
@@ -21,7 +21,7 @@ export const projectsData = [
         image: 'https://ik.imagekit.io/4t6ufpirwu/Capture.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1674039529879'
     },
     {
-        id: 3,
+        id: 2,
         projectName: 'Hibrew',
         projectDesc: 'E-commerce store for coffee maker',
         tags: ['WordPress','Elementor','Woocommerce'],
@@ -30,7 +30,34 @@ export const projectsData = [
         image: 'https://ik.imagekit.io/4t6ufpirwu/Capture2.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1674039918505'
     },
     {
+        id: 3,
+        projectName: 'MK interior design',
+        projectDesc: 'MK Designs is the top interior design company in Cairo. Providing luxury interior design and home decor services',
+        tags: ['WordPress', 'Elementor pro'],
+        code: '',
+        demo: 'https://pamseodubai.com/',
+        image: 'https://ik.imagekit.io/4t6ufpirwu/mk-design.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1674123284585'
+    },
+    {
         id: 4,
+        projectName: 'Crypto currencies',
+        projectDesc: 'A web app that shows some details about the common crypto currencies, fitched from binance Api',
+        tags: ['JavaScript', 'React', 'Redux'],
+        code: 'https://github.com/tarek102/react-capstone-project-financial-modeling',
+        demo: 'https://taupe-genie-b9016f.netlify.app/',
+        image: 'https://ik.imagekit.io/4t6ufpirwu/Capture3.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1674122687605'
+    },
+    {
+        id: 5,
+        projectName: 'PAM Dubai',
+        projectDesc: 'A marketing agency in Dubai, specialized in SEO and facebook Ads',
+        tags: ['WordPress', 'Elementor', 'Yoast'],
+        code: '',
+        demo: 'https://pamseodubai.com/',
+        image: 'https://ik.imagekit.io/4t6ufpirwu/pam_.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1674123122172'
+    },
+    {
+        id: 5,
         projectName: 'Movie web app',
         projectDesc: 'A tv list web app, that shows the number of movies and displays info about the movie',
         tags: ['Webpack', 'API', 'JavaScript', 'HTML', 'CSS'],
