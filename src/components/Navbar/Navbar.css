@@ -25,6 +25,11 @@
     user-select: none;
 }
 
+.makeStyles-navMenu-1 {
+    position: fixed;
+    right: 1.7rem;
+}
+
 .navLink--container {
     margin-top: 5rem;
 }
